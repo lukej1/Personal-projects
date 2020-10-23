@@ -1,0 +1,190 @@
+1,02/09/15,18:00,RNGesus,Ingsoc,Y,Ingsoc
+2,03/09/15,18:00,M'lady,Napoleon Wilson,Y,Napoleon Wilson
+3,04/09/15,18:00,Ripley,Billy Casper,Y,Billy Casper
+4,05/09/15,18:00,Jenkins,Tyler,Y,Jenkins
+5,06/09/15,18:00,Kes,Leeroy,Y,Leeroy
+6,07/09/15,18:00,Magnitude,Space Pirate,Y,Magnitude
+7,08/09/15,18:00,Big Boss,Esports,Y,Esports
+8,09/09/15,18:00,Einstein100,Big Brother,Y,Big Brother
+9,10/09/15,18:00,Macho Man,Game Dude,Y,Macho Man
+10,11/09/15,18:00,Otacon,Dennis,Y,Otacon
+11,12/09/15,18:00,Napoleon Wilson,Ingsoc,Y,Napoleon Wilson
+12,13/09/15,18:00,Otacon,RNGesus,Y,Otacon
+13,14/09/15,18:00,M'lady,Billy Casper,Y,Billy Casper
+14,15/09/15,18:00,Ripley,Tyler,Y,Ripley
+15,16/09/15,18:00,Jenkins,Leeroy,Y,Jenkins
+16,17/09/15,18:00,Kes,Space Pirate,Y,Kes
+17,18/09/15,18:00,Magnitude,Esports,Y,Esports
+18,19/09/15,18:00,Big Boss,Big Brother,Y,Big Boss
+19,20/09/15,18:00,Einstein100,Game Dude,Y,Game Dude
+20,21/09/15,18:00,Macho Man,Dennis,Y,Dennis
+21,22/09/15,18:00,Billy Casper,Ingsoc,Y,Ingsoc
+22,23/09/15,18:00,Napoleon Wilson,RNGesus,Y,RNGesus
+23,24/09/15,18:00,M'lady,Tyler,Y,M'lady
+24,25/09/15,18:00,Ripley,Leeroy,Y,Ripley
+25,26/09/15,18:00,Jenkins,Space Pirate,Y,Space Pirate
+26,27/09/15,18:00,Kes,Esports,Y,Kes
+27,28/09/15,18:00,Magnitude,Big Brother,Y,Magnitude
+28,29/09/15,18:00,Big Boss,Game Dude,Y,Big Boss
+29,30/09/15,18:00,Einstein100,Dennis,Y,Einstein100
+30,01/10/15,18:00,Otacon,Macho Man,Y,Otacon
+31,02/10/15,18:00,Tyler,Ingsoc,Y,Ingsoc
+32,03/10/15,18:00,Billy Casper,RNGesus,Y,RNGesus
+33,04/10/15,18:00,Otacon,Napoleon Wilson,Y,Napoleon Wilson
+34,05/10/15,18:00,M'lady,Leeroy,Y,Leeroy
+35,06/10/15,18:00,Ripley,Space Pirate,Y,Space Pirate
+36,07/10/15,18:00,Jenkins,Esports,Y,Jenkins
+37,08/10/15,18:00,Kes,Big Brother,Y,Kes
+38,09/10/15,18:00,Magnitude,Game Dude,Y,Magnitude
+39,10/10/15,18:00,Big Boss,Dennis,Y,Big Boss
+40,11/10/15,18:00,Einstein100,Macho Man,Y,Einstein100
+41,12/10/15,18:00,Leeroy,Ingsoc,Y,Leeroy
+42,13/10/15,18:00,Tyler,RNGesus,Y,RNGesus
+43,14/10/15,18:00,Billy Casper,Napoleon Wilson,Y,Billy Casper
+44,15/10/15,18:00,M'lady,Space Pirate,Y,Space Pirate
+45,16/10/15,18:00,Ripley,Esports,Y,Ripley
+46,17/10/15,18:00,Jenkins,Big Brother,Y,Jenkins
+47,18/10/15,18:00,Kes,Game Dude,Y,Kes
+48,19/10/15,18:00,Magnitude,Dennis,Y,Dennis
+49,20/10/15,18:00,Big Boss,Macho Man,Y,Big Boss
+50,21/10/15,18:00,Otacon,Einstein100,Y,Otacon
+51,22/10/15,18:00,Space Pirate,Ingsoc,Y,Space Pirate
+52,23/10/15,18:00,Leeroy,RNGesus,Y,Leeroy
+53,24/10/15,18:00,Tyler,Napoleon Wilson,Y,Napoleon Wilson
+54,25/10/15,18:00,Otacon,Billy Casper,Y,Billy Casper
+55,26/10/15,18:00,M'lady,Esports,Y,M'lady
+56,27/10/15,18:00,Ripley,Big Brother,Y,Ripley
+57,28/10/15,18:00,Jenkins,Game Dude,Y,Game Dude
+58,29/10/15,18:00,Kes,Dennis,Y,Kes
+59,30/10/15,18:00,Magnitude,Macho Man,Y,Macho Man
+60,31/10/15,18:00,Big Boss,Einstein100,Y,Einstein100
+61,01/11/15,18:00,Esports,Ingsoc,Y,Esports
+62,02/11/15,18:00,Space Pirate,RNGesus,Y,RNGesus
+63,03/11/15,18:00,Leeroy,Napoleon Wilson,Y,Leeroy
+64,04/11/15,18:00,Tyler,Billy Casper,Y,Billy Casper
+65,05/11/15,18:00,M'lady,Big Brother,Y,Big Brother
+66,06/11/15,18:00,Ripley,Game Dude,Y,Game Dude
+67,07/11/15,18:00,Jenkins,Dennis,Y,Jenkins
+68,08/11/15,18:00,Kes,Macho Man,Y,Kes
+69,09/11/15,18:00,Magnitude,Einstein100,Y,Einstein100
+70,10/11/15,18:00,Otacon,Big Boss,Y,Otacon
+71,11/11/15,18:00,Big Brother,Ingsoc,Y,Big Brother
+72,12/11/15,18:00,Esports,RNGesus,Y,Esports
+73,13/11/15,18:00,Space Pirate,Napoleon Wilson,Y,Napoleon Wilson
+74,14/11/15,18:00,Leeroy,Billy Casper,Y,Billy Casper
+75,15/11/15,18:00,Otacon,Tyler,Y,Otacon
+76,16/11/15,18:00,M'lady,Game Dude,Y,M'lady
+77,17/11/15,18:00,Ripley,Dennis,Y,Dennis
+78,18/11/15,18:00,Jenkins,Macho Man,Y,Jenkins
+79,19/11/15,18:00,Kes,Einstein100,Y,Einstein100
+80,20/11/15,18:00,Magnitude,Big Boss,Y,Big Boss
+81,21/11/15,18:00,Game Dude,Ingsoc,Y,Game Dude
+82,22/11/15,18:00,Big Brother,RNGesus,Y,Big Brother
+83,23/11/15,18:00,Esports,Napoleon Wilson,Y,Esports
+84,24/11/15,18:00,Space Pirate,Billy Casper,Y,Billy Casper
+85,25/11/15,18:00,Leeroy,Tyler,Y,Leeroy
+86,26/11/15,18:00,M'lady,Dennis,Y,Dennis
+87,27/11/15,18:00,Ripley,Macho Man,Y,Ripley
+88,28/11/15,18:00,Jenkins,Einstein100,Y,Jenkins
+89,29/11/15,18:00,Kes,Big Boss,Y,Big Boss
+90,30/11/15,18:00,Otacon,Magnitude,Y,Magnitude
+91,01/12/15,18:00,Dennis,Ingsoc,Y,Dennis
+92,02/12/15,18:00,Game Dude,RNGesus,Y,RNGesus
+93,03/12/15,18:00,Big Brother,Napoleon Wilson,Y,Big Brother
+94,04/12/15,18:00,Esports,Billy Casper,Y,Esports
+95,05/12/15,18:00,Space Pirate,Tyler,Y,Space Pirate
+96,06/12/15,18:00,Otacon,Leeroy,Y,Leeroy
+97,07/12/15,18:00,M'lady,Macho Man,Y,Macho Man
+98,08/12/15,18:00,Ripley,Einstein100,Y,Einstein100
+99,09/12/15,18:00,Jenkins,Big Boss,Y,Jenkins
+100,10/12/15,18:00,Kes,Magnitude,Y,Kes
+101,11/12/15,18:00,Macho Man,Ingsoc,Y,Ingsoc
+102,12/12/15,18:00,Dennis,RNGesus,Y,RNGesus
+103,13/12/15,18:00,Game Dude,Napoleon Wilson,Y,Napoleon Wilson
+104,14/12/15,18:00,Big Brother,Billy Casper,Y,Big Brother
+105,15/12/15,18:00,Esports,Tyler,Y,Esports
+106,16/12/15,18:00,Space Pirate,Leeroy,Y,Space Pirate
+107,17/12/15,18:00,M'lady,Einstein100,Y,Einstein100
+108,18/12/15,18:00,Ripley,Big Boss,Y,Big Boss
+109,19/12/15,18:00,Jenkins,Magnitude,Y,Magnitude
+110,20/12/15,18:00,Otacon,Kes,Y,Kes
+111,21/12/15,18:00,Einstein100,Ingsoc,Y,Einstein100
+112,22/12/15,18:00,Macho Man,RNGesus,Y,RNGesus
+113,23/12/15,18:00,Dennis,Napoleon Wilson,Y,Napoleon Wilson
+114,24/12/15,18:00,Game Dude,Billy Casper,Y,Game Dude
+115,25/12/15,18:00,Big Brother,Tyler,Y,Big Brother
+116,26/12/15,18:00,Esports,Leeroy,Y,Esports
+117,27/12/15,18:00,Otacon,Space Pirate,Y,Otacon
+118,28/12/15,18:00,M'lady,Big Boss,Y,M'lady
+119,29/12/15,18:00,Ripley,Magnitude,Y,Magnitude
+120,30/12/15,18:00,Jenkins,Kes,Y,Kes
+121,31/12/15,18:00,Big Boss,Ingsoc,Y,Ingsoc
+122,01/01/16,18:00,Einstein100,RNGesus,,
+123,02/01/16,18:00,Macho Man,Napoleon Wilson,,
+124,03/01/16,18:00,Dennis,Billy Casper,,
+125,04/01/16,18:00,Game Dude,Tyler,,
+126,05/01/16,18:00,Big Brother,Leeroy,,
+127,06/01/16,18:00,Esports,Space Pirate,,
+128,07/01/16,18:00,M'lady,Magnitude,,
+129,08/01/16,18:00,Ripley,Kes,,
+130,09/01/16,18:00,Otacon,Jenkins,,
+131,10/01/16,18:00,Magnitude,Ingsoc,,
+132,11/01/16,18:00,Big Boss,RNGesus,,
+133,12/01/16,18:00,Einstein100,Napoleon Wilson,,
+134,13/01/16,18:00,Macho Man,Billy Casper,,
+135,14/01/16,18:00,Dennis,Tyler,,
+136,15/01/16,18:00,Game Dude,Leeroy,,
+137,16/01/16,18:00,Big Brother,Space Pirate,,
+138,17/01/16,18:00,Otacon,Esports,,
+139,18/01/16,18:00,M'lady,Kes,,
+140,19/01/16,18:00,Ripley,Jenkins,,
+141,20/01/16,18:00,Kes,Ingsoc,,
+142,21/01/16,18:00,Magnitude,RNGesus,,
+143,22/01/16,18:00,Big Boss,Napoleon Wilson,,
+144,23/01/16,18:00,Einstein100,Billy Casper,,
+145,24/01/16,18:00,Macho Man,Tyler,,
+146,25/01/16,18:00,Dennis,Leeroy,,
+147,26/01/16,18:00,Game Dude,Space Pirate,,
+148,27/01/16,18:00,Big Brother,Esports,,
+149,28/01/16,18:00,M'lady,Jenkins,,
+150,29/01/16,18:00,Otacon,Ripley,,
+151,30/01/16,18:00,Jenkins,Ingsoc,,
+152,31/01/16,18:00,Kes,RNGesus,,
+153,01/02/16,18:00,Magnitude,Napoleon Wilson,,
+154,02/02/16,18:00,Big Boss,Billy Casper,,
+155,03/02/16,18:00,Einstein100,Tyler,,
+156,04/02/16,18:00,Macho Man,Leeroy,,
+157,05/02/16,18:00,Dennis,Space Pirate,,
+158,06/02/16,18:00,Game Dude,Esports,,
+159,07/02/16,18:00,Otacon,Big Brother,,
+160,08/02/16,18:00,M'lady,Ripley,,
+161,09/02/16,18:00,Ripley,Ingsoc,,
+162,10/02/16,18:00,Jenkins,RNGesus,,
+163,11/02/16,18:00,Kes,Napoleon Wilson,,
+164,12/02/16,18:00,Magnitude,Billy Casper,,
+165,13/02/16,18:00,Big Boss,Tyler,,
+166,14/02/16,18:00,Einstein100,Leeroy,,
+167,15/02/16,18:00,Macho Man,Space Pirate,,
+168,16/02/16,18:00,Dennis,Esports,,
+169,17/02/16,18:00,Game Dude,Big Brother,,
+170,18/02/16,18:00,Otacon,M'lady,,
+171,19/02/16,18:00,M'lady,Ingsoc,,
+172,20/02/16,18:00,Ripley,RNGesus,,
+173,21/02/16,18:00,Jenkins,Napoleon Wilson,,
+174,22/02/16,18:00,Kes,Billy Casper,,
+175,23/02/16,18:00,Magnitude,Tyler,,
+176,24/02/16,18:00,Big Boss,Leeroy,,
+177,25/02/16,18:00,Einstein100,Space Pirate,,
+178,26/02/16,18:00,Macho Man,Esports,,
+179,27/02/16,18:00,Dennis,Big Brother,,
+180,28/02/16,18:00,Otacon,Game Dude,,
+181,29/02/16,18:00,Otacon,Ingsoc,,
+182,01/03/16,18:00,M'lady,RNGesus,,
+183,02/03/16,18:00,Ripley,Napoleon Wilson,,
+184,03/03/16,18:00,Jenkins,Billy Casper,,
+185,04/03/16,18:00,Kes,Tyler,,
+186,05/03/16,18:00,Magnitude,Leeroy,,
+187,06/03/16,18:00,Big Boss,Space Pirate,,
+188,07/03/16,18:00,Einstein100,Esports,,
+189,08/03/16,18:00,Macho Man,Big Brother,,
+190,09/03/16,18:00,Dennis,Game Dude,,

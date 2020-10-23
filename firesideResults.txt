@@ -1,0 +1,20 @@
+Leeroy,19,7,12
+Jenkins,19,8,11
+Tyler,19,0,19
+Napoleon Wilson,19,7,12
+Big Boss,19,7,12
+Game Dude,19,5,14
+Macho Man,19,3,16
+Space Pirate,19,6,13
+Billy Casper,19,7,12
+Otacon,19,7,12
+Big Brother,19,7,12
+Ingsoc,19,5,14
+Ripley,19,5,14
+M'lady,19,4,15
+Einstein100,19,8,11
+Dennis,19,5,14
+Esports,19,8,11
+RNGesus,19,7,12
+Kes,19,9,10
+Magnitude,19,6,13
